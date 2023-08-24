@@ -1,0 +1,4 @@
+.idea/
+*.zip
+*-backups/
+.DS_Store
