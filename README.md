@@ -1,5 +1,9 @@
 # ESP32 PoE Somfy RTS Bridge
 
+# Not yet verified
+
+This header is currently work in progress and not yet tested/verified.
+
 ## Partlist
 
 - [ESP32 PoE](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/open-source-hardware)
